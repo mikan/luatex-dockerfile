@@ -5,3 +5,4 @@ RUN apt-get install -y \
     texlive-lang-japanese \
     texlive-latex-extra \
     texlive-luatex
+RUN apt-get clean
